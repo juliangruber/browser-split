@@ -3,6 +3,8 @@
 
 Cross browser String#split implementation.
 
+[![browser support](https://ci.testling.com/juliangruber/browser-split.png)](https://ci.testling.com/juliangruber/browser-split)
+
 ## Usage
 
 ```js
