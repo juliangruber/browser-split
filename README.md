@@ -48,6 +48,7 @@ $ npm install browser-split
 (MIT)
 
 Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt; 
+
 Copyright 2007-2012 Steven Levithan &lt;stevenlevithan.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
