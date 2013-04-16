@@ -45,6 +45,12 @@ With [npm](http://npmjs.org) do
 $ npm install browser-split
 ```
 
+With [component](https://github.com/component/component) do
+
+```bash
+$ component install juliangruber/browser-split
+```
+
 ## License
 
 (MIT)
