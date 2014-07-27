@@ -3,6 +3,8 @@
 
 Cross browser String#split implementation.
 
+[![downloads](https://img.shields.io/npm/dm/browser-split.svg)](https://www.npmjs.org/package/browser-split)
+
 [![browser support](https://ci.testling.com/juliangruber/browser-split.png)](https://ci.testling.com/juliangruber/browser-split)
 
 ## Usage
